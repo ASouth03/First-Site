@@ -1,0 +1,16 @@
+h1, h2 {
+	color: red;
+}
+
+body {
+	background: #e0e0e0;
+}
+
+body {
+	text-align: center;
+	font-family: arial, verdana; 
+}
+
+#songlist {
+	list-style-position: inside;
+}
